@@ -1,0 +1,18 @@
+{
+  "dataset_name": "Predict Students' Dropout and Academic Success",
+  "uci_id": 697,
+  "citation": "Realinho, V., Machado, J., Baptista, L., & Martins, M. V. (2021). Predict Students' Dropout and Academic Success. Data in Brief / UCI Machine Learning Repository. DOI: 10.1016/j.dib.2021.107530",
+  "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+  "source_url": "https://archive.ics.uci.edu/static/public/697/predict+students+dropout+and+academic+success.zip",
+  "download_timestamp": "2026-10-17T07:06:00.856104Z",
+  "sha256_checksum": "3ef126de5cefff26eb11fbb4237f1a1401cb64b488e2f1d598c23cedeb4c45ae",
+  "rows": 4424,
+  "columns": 37,
+  "delimiter": ";",
+  "target_column": "Target",
+  "target_distribution": {
+    "Graduate": 2209,
+    "Dropout": 1421,
+    "Enrolled": 794
+  }
+}
